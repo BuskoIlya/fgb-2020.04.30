@@ -5,3 +5,15 @@ Node.js
 
 npmjs.com - сайт с плагинами для gulp
 fonts.google.com - сайт с текстовыми стилями
+https://www.bootstrapcdn.com/
+
+gulp:
+  npm install --global gulp-cli
+  npm init //(fgb) package.json
+  //npm install gulp, npm install (see package.json)
+
+безопасность:
+  https://habr.com/ru/post/211370/
+  http://zabolotskikh.com/tips/content-security-policy/
+  https://developer.mozilla.org/ru/docs/Web/HTTP/CSP
+"content_security_policy": "default-src 'self'; 'script-src' 'self' 'unsafe-inline'"

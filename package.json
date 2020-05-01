@@ -1,0 +1,27 @@
+{
+  "name": "fgb",
+  "version": "1.0.0",
+  "description": "Federation Go of Belarus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BuskoIlya/fgb-2020.04.30.git"
+  },
+  "author": "buskoi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BuskoIlya/fgb-2020.04.30/issues"
+  },
+  "homepage": "https://github.com/BuskoIlya/fgb-2020.04.30#readme",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-less": "^4.0.1",
+    "gulp-minify": "^3.1.0",
+    "gulp-rename": "^2.0.0"
+  }
+}
