@@ -1,0 +1,43 @@
+@import "constants.less";
+
+body {
+  background: #fefdf1;
+  margin: 0;
+
+  table {
+    overflow: hidden;
+  }
+}
+
+.fgb_body {
+  width: @window_width;
+  min-height: 100%;
+  margin: 0 auto;
+  background: white;
+  box-shadow: 0 1px 0 0 @border_color, 0 0 0 1px @border_color;
+}
+
+.banner {
+  height: 93px;
+
+  .banner_left {
+    background: url("/img/by/banner_left.png") no-repeat;
+    width: 300px;
+    height: 93px;
+    float: left;
+  }
+
+  .banner_logo {
+    background: url("/img/by/banner_logo.png") no-repeat;
+    width: 400px;
+    height: 93px;
+    float: left;
+  }
+
+  .banner_right {
+    background: url("/img/by/banner_right.png") no-repeat;
+    width: 300px;
+    height: 93px;
+    float: left;
+  }
+}

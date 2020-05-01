@@ -1,0 +1,7 @@
+atom
+emmet, platformio-ide-terminal, git-plus, atom-beautify, php-cs-fixer (composer)
+HTML, CSS, Gulp, JavaScript, jQuery, Bootstrap, SASS и Git, SVG
+Node.js
+
+npmjs.com - сайт с плагинами для gulp
+fonts.google.com - сайт с текстовыми стилями
